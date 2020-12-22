@@ -1,0 +1,5 @@
+Authentication required for https://api.na45.prod.nextcle.com:6443 (openshift)
+Username: -p
+Password: 
+Login failed (401 Unauthorized)
+Verify you have provided correct credentials.
